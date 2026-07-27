@@ -22,6 +22,9 @@ A deterministic compliance backstop re-runs on every completed output regardless
 
 Beauty teams need faster first drafts without losing brand fit or accidentally making risky cosmetic claims. BeautyAgent AI turns a brief into TikTok, Instagram, and email copy while surfacing off-voice or compliance-sensitive output before it reaches the marketer's clipboard.
 
+#How it Works:
+Given a marketing brief, the agent decides whether copy is on-brand and compliant through a sequential two-agent pipeline, then surfaces one of three actionable verdicts: Compliant, Needs a Tweak, or Needs Sign-Off.
+
 #Week 1 → Week 2: What Changed
 Area	Week 1 (Agent 1.0)	Week 2 (Agent 2.0)
 Card states	PASSED / FAILED	Compliant / Needs a Tweak / Needs Sign-Off
